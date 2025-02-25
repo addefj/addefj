@@ -1,5 +1,5 @@
 # 💫 Hi there, my name is Andreas
-😊 Here I'm sharing my journey to become a Fullstack developer<br>🏗️ I’m a construction engineer that decided to change path in life<br>👨‍🎓 I studied at Nackademin in Stockholm 2009-2011<br>📚 Currently I'm studying at Lexicon while taking a Java couse at Luleå Technical University on the side
+😊 Here I'm sharing my journey to become a Fullstack developer<br>🏗️ I’m a construction engineer that decided to change path in life<br>👨‍🎓 I studied at Nackademin in Stockholm 2009-2011<br>📚 Currently I'm studying at Lexicon while taking a Java course at Luleå Technical University on the side
 
 
 # 💻 Tech Stack:
